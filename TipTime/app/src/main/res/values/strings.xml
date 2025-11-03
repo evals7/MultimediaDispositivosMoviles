@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipeTime</string>
+    <string name="app_propinas">APP PROPINAS</string>
+    <string name="c_mo_ha_sido_el_servicio">¿Cómo ha sido el servicio?</string>
+    <string name="excelente_20">Excelente (20%)</string>
+    <string name="bueno_18">Bueno (18%)</string>
+    <string name="aceptable_15">Aceptable (15%)</string>
+    <string name="calcular">Calcular</string>
+    <string name="propina">Propina:</string>
+</resources>
